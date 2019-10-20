@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1563616209 source:e:\algorithms\cb_sword_offer\main.cpp
+	<iostream>
+	<vector>
+	"intermediate.h"
+
+1563426091 source:e:\algorithms\cb_sword_offer\easy.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1562580418 e:\algorithms\cb_sword_offer\myclass.h
+	<iostream>
+
+1562642411 source:e:\algorithms\cb_sword_offer\singleton.cpp
+	<iostream>
+
+1564646722 source:e:\algorithms\cb_sword_offer\intermediate.cpp
+	<iostream>
+	<stack>
+	"intermediate.h"
+
+1563607915 e:\algorithms\cb_sword_offer\intermediate.cpp
+	<iostream>
+
+1563616266 e:\algorithms\cb_sword_offer\intermediate.h
+	<iostream>
+

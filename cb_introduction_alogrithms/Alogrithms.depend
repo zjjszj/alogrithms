@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1559689107 source:e:\codeblokcs\project\alogrithms\main.cpp
+	<iostream>
+
+1559689470 source:e:\codeblokcs\project\alogrithms\2_algorithms_base.cpp
+	<iostream>
+
+1559689470 source:e:\algorithms\alogrithms\2_algorithms_base.cpp
+	<iostream>
+
+1559689107 source:e:\algorithms\alogrithms\main.cpp
+	<iostream>
+
+1559689470 source:e:\algorithms\codeblocks_introduction_alogrithms\2_algorithms_base.cpp
+	<iostream>
+
+1561989995 source:e:\algorithms\codeblocks_introduction_alogrithms\main.cpp
+	<iostream>
+	<vector>
+
+1561972903 source:e:\algorithms\codeblocks_introduction_alogrithms\easy.cpp
+	<iostream>
+	<map>
+	<vector>
+
+1561990066 source:e:\algorithms\codeblocks_introduction_alogrithms\test.cpp
+	<iostream>
+
+1570973681 source:e:\algorithms\cb_introduction_alogrithms\main.cpp
+	<iostream>
+	<array>
+	<vector>
+	<cmath>
+	"my_queue.h"
+
+1565484521 source:e:\algorithms\cb_introduction_alogrithms\easy.cpp
+	<iostream>
+	<array>
+	<vector>
+	<algorithm>
+	<ctime>
+	<map>
+
+1565234241 source:e:\algorithms\cb_introduction_alogrithms\test.cpp
+	<iostream>
+	<vector>
+
+1564889889 e:\algorithms\cb_introduction_alogrithms\heapsort.cpp
+	<iostream>
+
+1565238002 source:e:\algorithms\cb_introduction_alogrithms\heapsort.cpp
+	<iostream>
+	<vector>
+
+1571145887 source:e:\algorithms\cb_introduction_alogrithms\my_queue.cpp
+	<iostream>
+	"my_queue.h"
+
+1569716729 source:e:\algorithms\cb_introduction_alogrithms\my_stack.cpp
+
+1571146066 e:\algorithms\cb_introduction_alogrithms\my_queue.h
+

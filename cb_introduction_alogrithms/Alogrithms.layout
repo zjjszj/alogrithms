@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="my_queue.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1419" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="easy.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3672" topLine="135" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="39" />
+			<Collapse line="41" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="58" />
+			<Collapse line="60" />
+			<Collapse line="64" />
+			<Collapse line="66" />
+			<Collapse line="69" />
+			<Collapse line="80" />
+			<Collapse line="81" />
+		</Folding>
+	</File>
+	<File name="my_queue.h" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="740" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="75" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="16" />
+			<Collapse line="21" />
+			<Collapse line="35" />
+			<Collapse line="45" />
+			<Collapse line="50" />
+			<Collapse line="52" />
+			<Collapse line="58" />
+			<Collapse line="65" />
+			<Collapse line="68" />
+			<Collapse line="91" />
+			<Collapse line="92" />
+		</Folding>
+	</File>
+	<File name="test.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="65" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="heapsort.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="699" topLine="15" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
