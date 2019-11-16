@@ -26,12 +26,13 @@
 1561990066 source:e:\algorithms\codeblocks_introduction_alogrithms\test.cpp
 	<iostream>
 
-1570973681 source:e:\algorithms\cb_introduction_alogrithms\main.cpp
+1573901465 source:e:\algorithms\cb_introduction_alogrithms\main.cpp
 	<iostream>
 	<array>
 	<vector>
 	<cmath>
 	"my_queue.h"
+	"my_queue.cpp"
 
 1565484521 source:e:\algorithms\cb_introduction_alogrithms\easy.cpp
 	<iostream>
@@ -52,11 +53,15 @@
 	<iostream>
 	<vector>
 
-1571145887 source:e:\algorithms\cb_introduction_alogrithms\my_queue.cpp
+1573901842 source:e:\algorithms\cb_introduction_alogrithms\my_queue.cpp
 	<iostream>
 	"my_queue.h"
 
 1569716729 source:e:\algorithms\cb_introduction_alogrithms\my_stack.cpp
 
-1571146066 e:\algorithms\cb_introduction_alogrithms\my_queue.h
+1573897403 e:\algorithms\cb_introduction_alogrithms\my_queue.h
+
+1573901842 e:\algorithms\cb_introduction_alogrithms\my_queue.cpp
+	<iostream>
+	"my_queue.h"
 

@@ -257,15 +257,32 @@ int main()
 //    }
 
 /// 循环队列
-My_Queue<int> q(5);
-int a=q.enqueue(1);
-int b=q.enqueue(2);
-cout<<a<<endl<<b<<endl;
-int d1=q.dequeue();
-cout<<d1<<endl;
-int d2=q.dequeue();
-cout<<d2<<endl;
-int d3=q.dequeue();
-cout<<d3<<endl;
+//My_Queue<int> q(5);
+//int a=q.enqueue(1);
+//int b=q.enqueue(2);
+//cout<<a<<endl<<b<<endl;
+//int d1=q.dequeue();
+//cout<<d1<<endl;
+//int d2=q.dequeue();
+//cout<<d2<<endl;
+//int d3=q.dequeue();
+//cout<<d3<<endl;
+
+
+///双链表
+DoubleLinkQueue<int> dlq;
+dlq.insert2Head(3);
+dlq.insert2Tail(4);
+dlq.insert2Tail(5);
+//DLNode<int>* n=dlq._search(5);
+bool b;
+b=dlq._delete(3);
+if(b){
+    dlq.visitAll();
+}else{
+    cout<<"删除的元素不存在";
+}
+
+
 }
 

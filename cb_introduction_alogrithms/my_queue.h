@@ -44,7 +44,30 @@ public:
     bool queue_full();
 };
 
+///链队
 
+// 1 双向链表
+template<typename T>
+class DLNode{
+public:
+    T data;
+    DLNode<T>* prior;
+    DLNode<T>* next;
+};
+
+template<typename T>
+class DoubleLinkQueue{
+private:
+    DLNode<T>* head;
+    DLNode<T>* tail;
+public:
+    DoubleLinkQueue(){head=tail=nullptr;};
+    void insert2Head(const T& value);
+    void insert2Tail(const T& value);
+    bool _delete(const T& value);
+    DLNode<T> * _search(const T& value) const;  //不会改变类的数据成员，该函数是只读函数
+    void visitAll() const;
+};
 
 
 
